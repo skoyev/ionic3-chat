@@ -10,7 +10,7 @@ Ionic 3 Chat Mobile Application
  * Run `ionic serve` in a terminal from the project root.
 
  ## App Preview
- <img src="https://github.com/skoyev/ionic3-chat/assets/chat.gif?raw=true" alt="Preview">
+ <img src="https://github.com/skoyev/ionic3-chat/blob/master/assets/chat.gif" alt="Preview">
 
  ## File Structure
  ```
