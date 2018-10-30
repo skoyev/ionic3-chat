@@ -1,18 +1,34 @@
 # ionic3-chat
-Ionic 3 Chat Mobile Application
+
+Developed Ionic 3 Chat Mobile Application which has 3 tabs:
+
+- Home - with your latest conversations
+- About page - application details, about product
+- Contacts - Your contact for communication.
+
+The online demo link is below:
 
 [DEMO](https://stackblitz.com/edit/ionic3-chat-rvon8t)
 
  ## Running
+
+ In order ot run application - follow the next steps:
+
  * Clone this repository: `https://github.com/skoyev/ionic3-chat`.
  * Run `npm install` from the project root.
  * If you do not install the ionic CLI (`npm install -g ionic`)
  * Run `ionic serve` in a terminal from the project root.
 
  ## App Preview
+
+ The application DEMO screenshot:
+
  <img src="https://github.com/skoyev/ionic3-chat/blob/master/assets/chat.gif" alt="Preview">
 
  ## File Structure
+
+ Application file structure:
+ 
  ```
  .
  ├── LICENSE
